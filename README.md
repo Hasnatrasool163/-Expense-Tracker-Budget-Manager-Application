@@ -51,7 +51,7 @@ Thrilled to share my latest project! 🎉 I developed a comprehensive expense tr
 
 ## Project Details
 - **Technologies Used**: Java, Maven, JavaFX, MySQL
-- **Timeline**: December 2024 - Present
+- **Timeline**: December 2024 - January 2025
 - **Purpose**: Simplifying financial management for individuals and groups.
 
 ## Screenshots
