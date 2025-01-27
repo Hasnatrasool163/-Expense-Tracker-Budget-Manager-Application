@@ -1,0 +1,13 @@
+Features
+1. Authentication done
+2. Authorisation done
+3. Group management (create group, edit group, delete group, add member, remove member) done
+4. Transactions tracking with amount and category (Income and expenditure) (group and individual) done
+5. To do list (group and individual) done
+6. Graphs and charts done
+7. In a group, if one person spends money, they can "split the bill" and the other members of the group should pay
+8. Total budget (individual and group) done
+9. Category budget (individual and group) done
+10. Category management (create, add, edit, delete) done
+11. Admin User Dashboard done
+12. Plan-Schedule Notes done
